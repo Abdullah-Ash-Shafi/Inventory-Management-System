@@ -1,0 +1,6 @@
+build/
+*.o
+*.out
+ZeptoSystem
+.vscode/
+.idea/
